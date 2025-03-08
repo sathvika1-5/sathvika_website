@@ -63,9 +63,6 @@ Potential future improvements for the website:
 
 ## License
 
-© 2024 Sathvika Vaka. All rights reserved.
+© 2025 Sathvika Vaka. All rights reserved.
 
-## Acknowledgements
 
-- Font Awesome for the icons
-- Google Fonts for the Roboto font
